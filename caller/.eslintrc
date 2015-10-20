@@ -1,0 +1,14 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "amd": true
+  },
+  "rules": {
+    "strict": [ 2, "global" ]
+  },
+  "ecmaFeatures": {
+    "modules": false
+  },
+  "extends": "airbnb"
+}
