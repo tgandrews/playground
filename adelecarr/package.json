@@ -1,0 +1,9 @@
+{
+  "name": "adelecarr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.26"
+  }
+}
